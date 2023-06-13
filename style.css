@@ -10,3 +10,7 @@
 section {
   padding-top: 5rem;
 }
+
+.nav-item a:hover {
+  color: red;
+}
